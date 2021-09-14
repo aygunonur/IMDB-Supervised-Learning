@@ -1,1 +1,1 @@
-# IMDB-Supervised-Learning
+In this project, I will use the "IMDB Dataset of 50K Movie Reviews" dataset that I got from kaggle. This dataset consists of 50,000 comments. I'm trying to predict whether the comment is positive or negative using artificial neural networks. Finally, I will write my own comment and check whether it will make a positive or negative comment.
